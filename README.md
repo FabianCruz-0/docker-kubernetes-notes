@@ -1,4 +1,4 @@
-#Docker Kubernetes notes
+# Docker Kubernetes notes
 
 Notas de cursos y prácticas con Docker y Kubernetes.
 
@@ -34,7 +34,8 @@ Las imágenes tienen capas.
 Estas capas se definen en el <code><b>Dockerfile</b></code>.
 
 Ejemplo de achivo dockerfile:
-<img src="images/001 - dockerfile example.png">
+
+<img src="images/001 - dockerfile example.png" style="border: 1px solid black; border-radius:5px">
 
 
 <br>
